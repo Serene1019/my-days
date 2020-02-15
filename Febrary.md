@@ -14,8 +14,8 @@
 |`学习强国`|        |        |        | :o:    |
 | 外语    | 30min+ |         |        |
 | Python ||openpyxl教程|openpyxl教程|基础课程|
-| 毕设准备|         |         |
+| 毕设准备|         |         |      |        |
 |一些新知识|        |         |      |some news|
-|美好的琐事|        |  :memo: |
-| 想念周瑞 |:heartbeat:|:heartbeat:|:heartbeat:|
+|美好的琐事|        |         |:memo:|         |
+| 想念周瑞||:heartbeat:|:heartbeat:|:heartbeat:|
 
