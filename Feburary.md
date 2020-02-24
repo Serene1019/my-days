@@ -18,24 +18,27 @@
 |一些新知识|        |         |      |some news|    |    |    |   Pycharm&Git&Dingtalk|||Pycharm&Dingtalk|
 |美好的琐事|        |         |:memo:|         |
 | 想念周瑞||:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|
+  
 
 
-### The-Second-10-days  Hold on!
+
+
+### The-Second-10-days    Hold on!
 |  TO DO   |  List  |  2-23  |  2-24  |  2-25  |  2-26  |  2-27  |  2-28  |  2-29  |  3-1  |  3-2  |  3-3  |
 | :-----:  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 肩颈训练 | 8:30am|:hearts:|
-|         | 12:30pm|
-| 腰腹训练| 11:00am|:hearts:|
-|           |6:30pm|:hearts:|
-| 臀腿训练| 11:30am|:hearts:|
-|         | 6:30pm |
-| 有氧运动 | 30min+|  T25   |
-| Dance   |        |  60min |
-| 拉伸&按摩| 30min+|:hearts:|
+| 肩颈训练 | 8:30am|:hearts:|:hearts:|
+|         |12:30pm||:hearts:|:hearts:|
+| 腰腹训练| 11:00am|:hearts:|:hearts:|
+|           |6:30pm|:hearts:|:hearts:|
+| 臀腿训练| 11:30am|:hearts:|:hearts:|
+|         | 6:30pm |        |:hearts:|
+| 有氧运动 | 30min+|  T25   |基础操课|
+| Dance   |        |  60min | 140min |
+| 拉伸&按摩| 30min+|:hearts:|:hearts:|
 |  读书   | output |
 |`学习强国`|        |
-|Python |          |
+|Python |          |       |函数3课时|
 | 毕设准备|         |
 |一些新知识|        |
 |美好的琐事|        |
-|想念哥哥||:heartbeat:|
+|想念哥哥||:heartbeat:|:heartbeat:|
