@@ -24,21 +24,21 @@
 
 
 ### The-Second-10-days    Hold on!
-|  TO DO   |  List  |  2-23  |  2-24  |  2-25  |  2-26  |  2-27  |  2-28  |  2-29         |  3-1  |  3-2  |  3-3  |
-| :-----:  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:        | :----: | :----: | :----: |
-| 肩颈训练 | 8:30am|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
-|         |12:30pm||:hearts::hearts:|:hearts:|         |        |:hearts:|
-| 腰腹训练| 11:00am|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
-|           |6:30pm|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
+|  TO DO   |  List  |  2-23  |  2-24  |  2-25  |  2-26  |  2-27  |  2-28  |  2-29         |  3-1   |              3-2 |  3-3  |
+| :-----:  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:        | :----: |           :----: | :----: |
+| 肩颈训练 | 8:30am|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|                |:hearts:|         
+|         |12:30pm||:hearts::hearts:|:hearts:|         |        |:hearts:|                
+| 腰腹训练| 11:00am|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|                
+|           |6:30pm|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
 | 臀腿训练| 11:30am|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
-|         | 6:30pm |        |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
-| 有氧运动 | 30min+|  T25   |基础操课| HIIT |跳跃运动|15minHIIT|50min操课|50min操课|
-| Dance   |        |  60min | 140min |  60min | 60min  | 70min  | 40min  | 30min  |
-| 拉伸&按摩| 30min+|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
+|         | 6:30pm |        |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
+| 有氧运动 | 30min+|  T25   |基础操课| HIIT |跳跃运动|15minHIIT|50min操课|50min操课|40min操课|
+| Dance   |        |  60min | 140min |  60min | 60min  | 70min  | 40min  | 30min  | 40min    |
+| 拉伸&按摩| 30min+|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:  |
 |  读书   | output |
 |`学习强国`|        |
-|Python |          |   |函数3课时|调试小机器人|复习函数|死磕函数|完结函数|
+|Python |          |   |函数3课时|调试小机器人|复习函数|死磕函数|完结函数、哥哥的直播课|哥哥的直播课|
 | 毕设准备|         | |          |抓取京东数据|考拉数据|        |        |
-|一些新知识|        |||||哥哥的直播课||哥哥的直播课|
+|一些新知识|        ||||||||
 |美好的琐事|        |||||做护肤功课||认真地反省了自己|
-|想念哥哥||:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|
+|想念哥哥||:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|heartbeat:|:heartbeat:|
