@@ -26,12 +26,12 @@
 ### The-Second-10-days    Hold on!
 |  TO DO   |  List  |  2-23  |  2-24  |  2-25  |  2-26  |  2-27  |  2-28  |  2-29         |  3-1   |              3-2 |  3-3  |
 | :-----:  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:        | :----: |           :----: | :----: |
-| 肩颈训练 | 8:30am|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|                |:hearts:|:hearts:|         |:hearts:|
+| 肩颈训练 | 8:30am|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|                |:hearts:|:hearts:         |:hearts:|
 |         |12:30pm||:hearts::hearts:|:hearts:|         |        |:hearts:|                                            |:hearts:|            
 | 腰腹训练| 11:00am|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|                
-|           |6:30pm|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
+|           |6:30pm|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts::hearts:|:hearts::hearts:|:hearts::hearts:|:hearts::hearts:|
 | 臀腿训练| 11:30am|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
-|         | 6:30pm |        |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
+|         | 6:30pm |        |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts::hearts:|:hearts::hearts:|:hearts::hearts:|:hearts::hearts:|
 | 有氧运动 | 30min+|  T25   |基础操课| HIIT |跳跃运动|15minHIIT|50min操课|50min操课|40min操课|50min操课|50min操课|
 | Dance   |        |  60min | 140min |  60min | 60min  | 70min  | 40min  | 30min  | 40min    |40min    |20min    |
 | 拉伸&按摩| 30min+|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:  |:hearts:  |:hearts: |
@@ -45,3 +45,19 @@
 
 
 ### The-Third-10-days    加油鸭!
+|  TO DO  |  List  |  3-4  |  3-5  |  3-6  |  3-7  |  3-8  |  3-9  |  3-10 |  3-11   | 3-12   |  3-13  |
+|:-----:  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:| :----: |:----: | :----: |
+|   饮食  |        |        |        |
+| 肩颈训练|斜方肌  |:hearts:|
+|          |拉伸   |:hearts:|:hearts:|
+| 腰腹训练| time   |  15min | 15min  |
+| 臀腿训练| time   |  20min | 20min  |
+| 有氧运动| time   |  40min | min  |
+| Dance   |time    |  40min |
+| 拉伸&按摩| 30min+|:hearts:|
+|  读书   |        |那不勒斯2|那不勒斯3|
+|`学习强国`|       |
+|Python |          |:hearts:|
+| 毕设准备|         |
+|美好的琐事|        |
+|想念哥哥||:heartbeat:|
