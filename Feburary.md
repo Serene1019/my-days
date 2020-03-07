@@ -49,15 +49,15 @@
 |:-----:  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:| :----: |:----: | :----: |
 |   饮食  |        |        |        |        |
 | 肩颈训练|斜方肌  |:hearts:|
-|          |拉伸   |:hearts:|:hearts:|:hearts:|
-| 腰腹训练| time   |  15min | 15min  | 15min |
-| 臀腿训练| time   |  20min | 20min  | 20min |
-| 有氧运动| time   |  40min | 30min  | 50min |
-| Dance   |time    |  40min | 50min  | 30min |
-| 拉伸&按摩| 30min+|:hearts:|:hearts:|:hearts:|
-|  读书   |        |那不勒斯2|那不勒斯3|那不勒斯3|
+|          |拉伸   |:hearts:|:hearts:|:hearts:|:hearts:|
+| 腰腹训练| time   |  15min | 15min  | 15min |  15min |
+| 臀腿训练| time   |  20min | 20min  | 20min |  20min |
+| 有氧运动| time   |  40min | 30min  | 50min |  60min |
+| Dance   |time    |  40min | 50min  | 30min |  30min |
+| 拉伸&按摩| 30min+|:hearts:|:hearts:|:hearts:|:hearts:|
+|  读书   |        |那不勒斯2|那不勒斯3|那不勒斯3|那不勒斯4|
 |`学习强国`|       |
-|Python |          |:hearts:|:hearts:|:hearts:|
+|Python |          |:hearts:|:hearts:|:hearts:|:hearts:|
 | 毕设准备|         |
 |美好的琐事|        |
-|想念哥哥||:heartbeat:|:heartbeat:|:heartbeat:|
+|想念哥哥||:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|
