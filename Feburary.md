@@ -47,17 +47,17 @@
 ### The-Third-10-days    加油鸭!
 |  TO DO  |  List  |  3-4  |  3-5  |  3-6  |  3-7  |  3-8  |  3-9  |  3-10 |  3-11   | 3-12   |  3-13  |
 |:-----:  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:| :----: |:----: | :----: |
-|   饮食  |        |        |        |        |
+|   饮食  |        |        |        |        |        |:hearts:|:hearts:|       |
 | 肩颈训练|斜方肌  |:hearts:|        |        |        |:hearts:|
-|          |拉伸   |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
-| 腰腹训练| time   |  15min | 15min  | 15min |  15min |  15min |
-| 臀腿训练| time   |  20min | 20min  | 20min |  20min |  20min |
-| 有氧运动| time   |  40min | 30min  | 50min |  60min |30minHIIT|
-| Dance   |time    |  40min | 50min  | 30min |  30min | 30min  |
-| 拉伸&按摩| 30min+|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
-|  读书   |        |那不勒斯2|那不勒斯3|那不勒斯3|那不勒斯4|   |
+|          |拉伸   |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
+| 腰腹训练| time   |  15min | 15min  | 15min |  15min |  15min |  15min |
+| 臀腿训练| time   |  20min | 20min  | 20min |  20min |  20min |  20min |
+| 有氧运动| time   |  40min | 30min  | 50min |  60min |30minHIIT|CM25min|
+| Dance   |time    |  40min | 50min  | 30min |  30min | 30min  |  150min|
+| 拉伸&按摩| 30min+|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
+|  读书   |        |那不勒斯2|那不勒斯3|那不勒斯3|那不勒斯4|    |        |
 |`学习强国`|       |        |        |        |        |:hearts:|
-|Python |          |:hearts:|:hearts:|:hearts:|:hearts:|       |
+|Python |          |:hearts:|:hearts:|:hearts:|:hearts:|        |        |
 | 毕设准备|         |
 |美好的琐事|        |
-|想念哥哥||:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|
+|想念哥哥||:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|:heartbeat:|
