@@ -66,16 +66,16 @@
 ### New-Week   加加加加加把劲！
 |  TO DO  |  List  |  3-14  |  3-15  |  3-16  |  3-17  |  3-18  |  3-19  |  3-20 |  3-21   | 3-22   |  3-23  |
 |:-----:  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:| :----:  |:----:  | :----: |
-|   饮食  |        |        |
-| 肩颈训练|斜方肌  | 30min  |
-|         |  拉伸  |:hearts:|
-| 腰腹训练| time   |
-| 臀腿训练| time   |  20min |
-| 有氧运动| time   |  30min |
-| Dance   |time    |  30min |
-|拉伸&按摩| 30min+ |:hearts:|
-|  读书   |        |        |
-|`学习强国`|       |:hearts:|
-|Python |          |
-|毕设准备|         |
-|想念哥哥|         |:hearts:|
+|   饮食  |        |        |:hearts:|
+| 肩颈训练|  肩颈  |:hearts:|:hearts:|
+|         |  手臂  |:hearts:|:hearts:|
+| 腰腹训练| time   |        |  15min |
+| 臀腿训练| time   |  20min |  20min |
+| 有氧运动| time   |  30min |  75min |
+| Dance   |time    |  30min |  5min  |
+|拉伸&按摩| 30min+ |:hearts:|:hearts:|
+|  读书   |        |        |        |
+|`学习强国`|       |:hearts:|:hearts:|
+|Python |          | 查资料 |        |
+|毕设准备|         |        |整理思路|
+|想念哥哥|         |:hearts:|:hearts:|
