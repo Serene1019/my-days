@@ -64,18 +64,18 @@
 
 
 ### New-Week   加加加加加把劲！
-|  TO DO  |  List  |  3-14  |  3-15  |  3-16  |  3-17  |  3-18  |  3-19  |  3-20 |  3-21   | 3-22   |  3-23  |
-|:-----:  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:| :----:  |:----:  | :----: |
-|   饮食  |        |        |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|        |
-| 肩颈训练|  肩颈  |:hearts:|:hearts:|:hearts:|        |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
-|         |  手臂  |:hearts:|:hearts:|:hearts:|        |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
-| 腰腹训练| time   |        |  15min |  15min |        | 7min   | 15min  | 30min  | 10min  | 15min  |
-| 臀腿训练| time   |  20min |  20min |  20min |        | 10min  | 20min  | 20min  | 10min  | 20min  |
-| 有氧运动| time   |  30min |  75min |  40min |        | 30min  | 50min  | 0min   | 45min  | 45min  |
-| Dance   |time    |  30min |  5min  |  40min |        | 30min  | 30min  | 60min  |  0min  | 35min  |
-|拉伸&按摩| 30min+ |:hearts:|:hearts:|:hearts:|        |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
+|  TO DO  |  List  |  3-14  |  3-15  |  3-16  |  3-17  |  3-18  |  3-19  |  3-20 |  3-21   | 3-22   |  3-23  | 3-24 |
+|:-----:  | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:| :----:  |:----:  | :----: | :----:|
+|   饮食  |        |        |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|        |        |:hearts:|
+| 肩颈训练|  肩颈  |:hearts:|:hearts:|:hearts:|        |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
+|         |  手臂  |:hearts:|:hearts:|:hearts:|        |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
+| 腰腹训练| time   |        |  15min |  15min |        | 7min   | 15min  | 30min  | 10min  | 15min  | 11min  | 11min  |
+| 臀腿训练| time   |  20min |  20min |  20min |        | 10min  | 20min  | 20min  | 10min  | 20min  | 20min  | 20min  |
+| 有氧运动| time   |  30min |  75min |  40min |        | 30min  | 50min  | 0min   | 45min  | 45min  |  0min  | 30min  |
+| Dance   |time    |  30min |  5min  |  40min |        | 30min  | 30min  | 60min  |  0min  | 35min  |  0min  | 30min  |
+|拉伸&按摩| 30min+ |:hearts:|:hearts:|:hearts:|        |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
 |  读书   |        |        |        |
-|`学习强国`|       |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
+|`学习强国`|       |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
 |Python |          | 查资料 |        |
 |毕设准备|         |        |整理思路|
-|想念哥哥|         |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
+|想念哥哥|         |:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|:hearts:|
